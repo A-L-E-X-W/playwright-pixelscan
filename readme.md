@@ -19,7 +19,8 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:YourUsername/playwright-pixelscan.git
+   git clone https://github.com/A-L-E-X-W/playwright-pixelscan.git
+   
    cd playwright-pixelscan
 
 
